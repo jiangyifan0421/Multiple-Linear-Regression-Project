@@ -1,1 +1,2 @@
-# data-analyzing
+## Muiltiple Linear Regression Project
+### In this project, I will be using a dataset that is specifically dedicated to the expenses incurred for treating different patients. The cost of treatment depends on a number of factors, including the patient's age, sex, number of children, type of clinic, and more. While we lack data on the patient's diagnosis, we possess other relevant information that can help us draw conclusions about their medical costs and conduct regression analysis.
